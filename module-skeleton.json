@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-static-publishing-react-native",
+  "capabilityKey": "liberusoftware/module-cms-static-publishing",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-cms-static-publishing-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/cms/nextjs/static-publishing.md",
+  "presentationPlan": "projects/cms/react-native/static-publishing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
